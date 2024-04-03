@@ -15,7 +15,6 @@ Break into small groups. Try to find people you haven't met yet for your group.
 
 Task: 
 
-*Share a time when you thought you were making the best recipe ever but it went horribly wrong.* 
 
 {% include next-button.html
 top-label="2. Shop for the best recipe ever ->"
